@@ -1,0 +1,52 @@
+{
+  "company": [
+    {
+      "name": "Sudesh Sudeera",
+      "empcount": "100",
+      "revenue": "25000",
+      "address": "Ella Road, Wellawaya.",
+      "isactive": true,
+      "id": 1
+    },
+    {
+      "name": "Deshan Dinidu",
+      "empcount": "300",
+      "revenue": "45000",
+      "address": "Peradeniya, Kandy.",
+      "isactive": false,
+      "id": 2
+    },
+    {
+      "name": "Dinukshi Jayasena",
+      "empcount": "400",
+      "revenue": "50000",
+      "address": "Gampaha, Wellawaya.",
+      "isactive": true,
+      "id": 3
+    },
+    {
+      "id": 4,
+      "name": "Sudesh Bandara",
+      "empcount": "150",
+      "revenue": "35000",
+      "address": "Ella Road, Monaragala.",
+      "isactive": false
+    },
+    {
+      "name": "Deshan Konara",
+      "empcount": "800",
+      "revenue": "65000",
+      "address": "Panadura, Colombo.",
+      "isactive": true,
+      "id": 5
+    },
+    {
+      "name": "Dinukshi Kalpani",
+      "empcount": "1000",
+      "revenue": "100000",
+      "address": "Gampaha, Colombo.",
+      "isactive": true,
+      "id": 6
+    }
+  ]
+}
